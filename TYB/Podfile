@@ -1,0 +1,57 @@
+
+platform :ios,'10.0'
+
+def shared_pods
+    ui_pods
+    rx_pods
+    networking_pods
+    etc_pods
+end
+
+def ui_pods
+   pod 'SnapKit', '~> 4.0.0'
+   pod 'MBProgressHUD'
+   pod 'IQKeyboardManagerSwift', '~> 6.0'
+   pod 'DZNEmptyDataSet'
+   pod 'UITextView+Placeholder'
+   pod 'SDWebImage'
+   pod 'SDWebImage/GIF'
+   #图片选择器https://github.com/Darren-chenchen/CLImagePickerTool
+  pod 'CLImagePickerTool', :git => 'https://github.com/Darren-chenchen/CLImagePickerTool'
+end
+
+def rx_pods
+    pod 'RxSwift' , '~> 5.1'
+    pod 'RxDataSources', '~> 4.0'
+    pod 'RxGesture', '~> 3.0'
+end
+
+def networking_pods
+    pod 'Moya/RxSwift', '~> 14'
+    pod 'Kingfisher', '~> 5.0'
+    pod 'Tiercel'
+end
+
+def etc_pods
+  pod 'ObjectMapper', '3.3.0'
+  pod 'R.swift', '~> 5.0'
+  pod "Deviice"
+  pod 'CryptoSwift', '~> 1.3.1'
+
+end
+
+
+
+
+target 'TYB' do
+
+  pod 'Masonry'
+
+  use_frameworks!
+  inhibit_all_warnings!#消除警告
+
+  
+  shared_pods
+  
+
+end
