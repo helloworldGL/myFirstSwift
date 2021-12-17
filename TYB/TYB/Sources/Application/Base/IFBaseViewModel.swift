@@ -25,3 +25,4 @@ protocol IFViewModelType{
     func transform(input: Input) -> Output
 }
 
+

@@ -1,0 +1,227 @@
+
+[
+    [
+        {
+            "title": "宝宝直播",
+            "icon": "bao_bao_live",
+            "color": "F77446",
+            "class": "CLChangeLanguageController"
+        },
+        {
+            "title": "宝宝相册",
+            "icon": "bao_bao_images",
+            "color": "50B8FB",
+            "class": "CLChangeLanguageController"
+        },
+        {
+            "title": "班级动态",
+            "icon": "baobao_dong_tai",
+            "color": "FE7A97",
+            "class": "CLChangeLanguageController"
+        },
+        {
+            "title": "托育日记",
+            "icon": "tuo_yu_books",
+            "color": "FE7A97",
+            "class": "CLChangeLanguageController"
+        }
+        
+    ],
+    [
+        {
+            "title": "所有宝宝",
+            "count": "0",
+            "color": "FE7A97",
+            "class": "CLChangeLanguageController"
+        },
+        {
+            "title": "已入园",
+            "count": "0",
+            "color": "50B8FB",
+            "class": "CLChangeLanguageController"
+        },
+        {
+            "title": "未入园",
+            "count": "0",
+            "color": "FE7A97",
+            "class": "CLChangeLanguageController"
+        },
+        {
+            "title": "已离园",
+            "count": "0",
+            "color": "48C127",
+            "class": "CLChangeLanguageController"
+        },
+        {
+            "title": "特殊宝宝",
+            "count": "0",
+            "color": "FE7A97",
+            "class": "CLChangeLanguageController"
+        },
+        
+        {
+            "title": "晨检异常",
+            "count": "0",
+            "color": "50B8FB",
+            "class": "CLChangeLanguageController"
+        },
+    
+        {
+            "title": "喂药申请",
+            "count": "0",
+            "color": "FE7A97",
+            "class": "CLChangeLanguageController"
+        },
+        {
+            "title": "请假中",
+            "count": "0",
+            "color": "48C127",
+            "class": "CLChangeLanguageController"
+        },
+    ],
+    
+    [
+        {
+            "header": "入园记录",
+            "body": [
+                {
+                    "title": "入园签到",
+                    "icon": "ru_yuan",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "晨检记录",
+                    "icon": "chen_jian",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "每日交代",
+                    "icon": "mei_ri",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                }
+            ]
+        },
+        {
+            "header": "在园记录",
+            "body": [
+                {
+                    "title": "饮食记录",
+                    "icon": "food",
+                    "color": "333333",
+
+                    
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "喝水记录",
+                    "icon": "drink",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "如厕情况",
+                    "icon": "wc",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "午睡情况",
+                    "icon": "sleep",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                }
+                ,
+                {
+                    "title": "服药记录",
+                    "icon": "drug",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                }
+                ,
+                {
+                    "title": "宝宝表现",
+                    "icon": "biao_xian",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                }
+            ]
+        },
+        
+        {
+            "header": "离园记录",
+            "body": [
+                {
+                    "title": "离园情况",
+                    "icon": "li_yuan",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "晚检记录",
+                    "icon": "wan_jian",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "上课情况",
+                    "icon": "shang_ke",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                }
+            ]
+        },
+    
+        {
+            "header": "所有班级动态",
+            "body": [
+                {
+                    "title": "筛选",
+                    "icon": "shai-xuan",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "待审核",
+                    "icon": "dai-shen-he",
+                    "color": "333333",
+
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "与我相关",
+                    "color": "333333",
+
+                    "icon": "yu-wo-xiang-guan",
+                    "class": "CLChangeLanguageController"
+                },
+                {
+                    "title": "权限设置",
+                    "color": "333333",
+
+                    "icon": "quan-xian-she-zhi",
+                    "class": "CLChangeLanguageController"
+                },
+     
+            ]
+        }
+    ]
+    
+]
+
+
+

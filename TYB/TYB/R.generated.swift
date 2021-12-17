@@ -151,7 +151,7 @@ struct R: Rswift.Validatable {
     /// Image `authority_icon_gps`.
     static let authority_icon_gps = Rswift.ImageResource(bundle: R.hostingBundle, name: "authority_icon_gps")
     /// Image `authority_icon`.
-    static let authority_icon = Rswift.ImageResource(bundle: R.hostingBundle, name: "authority_icon")
+    static let authority_icon = Rswift.ImageResource(bundle: R.hostingBundle, name: "baobao")
     /// Image `bg_alert_agree`.
     static let bg_alert_agree = Rswift.ImageResource(bundle: R.hostingBundle, name: "bg_alert_agree")
     /// Image `bg_common_list`.
